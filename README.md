@@ -1,5 +1,7 @@
 # Two Six Capital Data Engineering Challenge
 
+> **Latest Up Link** : `http://61a80b95.ngrok.io`
+
 ## Problem Statement
 
 This data engineering challenge reflects the kind of tasks we undertake when working on private equity deals. A Data Engineer is someone who has specialized their skills in creating software solutions around big data. This means that the Data Engineer must be capable of adapting to many situations and working with a vast panoply of tools. 
