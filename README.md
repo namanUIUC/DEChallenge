@@ -1,6 +1,6 @@
 # Two Six Capital Data Engineering Challenge
 
-> **Latest Up Link** : `http://61a80b95.ngrok.io`
+> **Latest Up Link** : `http://c1c32f77.ngrok.io`
 
 ## Problem Statement
 
